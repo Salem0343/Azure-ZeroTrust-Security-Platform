@@ -1,4 +1,4 @@
-## Azure Zero-Trust Cloud Security Lab
+# Azure Zero-Trust Cloud Security Lab
 
 # Overview
 
